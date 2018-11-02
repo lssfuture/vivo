@@ -2,7 +2,7 @@
 * @Author: MAIBENBEN
 * @Date:   2018-08-01 08:36:03
 * @Last Modified by:   我的文档
-* @Last Modified time: 2018-11-01 17:10:32
+* @Last Modified time: 2018-11-02 10:44:52
 */
 
 
@@ -343,14 +343,15 @@
 	top: 500px;
 	left: 550px;
 	z-index: 10;
+	
 }
 .dot .active{
-	height: 8px;
+	background: #fff;
 }
 .dot1{
 	width: 42px;
 	height: 4px;
-	background: #fff;
+	background: #cccccc;
 	margin-right: 10px;
 	float: left;
 	cursor: pointer;
